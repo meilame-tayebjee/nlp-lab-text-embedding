@@ -1,6 +1,2 @@
-data/__MACOSX/._collobert_embeddings.txt
-data/glove.6B.50d.txt.zip
-data/glove.6B.50d.txt
-data/collobert_words.lst
-data/collobert_embeddings.txt.zip
-data/collobert_embeddings.txt
+data/
+similarity/
